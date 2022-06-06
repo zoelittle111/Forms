@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+<html prefix="og: https://ogp.me/ns#">
 <head>
+  <meta property="og:title" content="Misunderstood (Official Music Video) | YouTube"><meta property="og:image" content="https://i.redd.it/pknyd1w9upd21.jpg"><meta property="og:title" content="">
+  <meta property="og:description" content="Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."><meta property="og:url" content="youtu.be">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="preconnect" href="https://fonts.gstatic.com" />
